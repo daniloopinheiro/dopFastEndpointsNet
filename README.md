@@ -1,8 +1,9 @@
 *Venham! Vejam as obras do Senhor, seus feitos estarrecedores na terra. Salmos 46:8*
 ![post-fast-end-net](https://github.com/user-attachments/assets/01c4aa82-5bb3-4f35-b364-d423577cd70c)
 
-O titulo se dá ao nome *fast endpoints started aspnet*, que tem por base da construção [FastEndpoints](https://fast-endpoints.com/)
 [![.NET](https://github.com/daniloopinheiro/FastEndpointsNet/actions/workflows/dotnet.yml/badge.svg)](https://github.com/daniloopinheiro/FastEndpointsNet/actions/workflows/dotnet.yml)
+
+O titulo se dá ao nome *fast endpoints started aspnet*, que tem por base da construção [FastEndpoints](https://fast-endpoints.com/)
 
 ## Índice
 
